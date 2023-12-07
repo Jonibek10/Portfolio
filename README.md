@@ -2,7 +2,7 @@
 
 [Profile Card](https://www.tailwindtoolbox.com/templates/profile-card) is a single page template for use as a user profile website / card created in [Tailwind CSS](https://tailwindcss.com/) by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
-![Profile Card](https://www.tailwindtoolbox.com/templates/profile-card.png)
+![Profile Card]('https://images.unsplash.com/photo-1618641986557-1ecd230959aa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D')
 
 ## Getting Started
 
